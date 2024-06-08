@@ -1,4 +1,17 @@
-<h1>Ejemplo de Herencia en Java:</h1>
+<h1>Herencia en Java</h1>
+
+<h2>Breve descripción de Herencia:</h2>
+<p>La herencia es un concepto fundamental en la programación orientada a objetos (POO) que permite a una clase derivar propiedades y comportamientos de otra clase. Algunas de sus principales utilidades son:</p>
+<ul>
+<li>Reutilización de código</li>
+<li>Extensibilidad</li>
+<li>Organización jerárquica</li>
+<li>Polimorfismo</li>
+<li>Mantenimiento y actualización</li>
+<li>Modelado de relaciones naturales</li>  
+</ul>
+
+<h2>Ejemplo practico de Herencia en Java:</h2>
 
 <p>Clase Persona:</p>
     <ul>
